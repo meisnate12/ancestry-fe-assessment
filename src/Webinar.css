@@ -2,5 +2,8 @@
     width: 400px;
 }
 .webinar-container {
-    background-color: bisque;
+    background-color: #d9d8da;
+}
+.webinar-name {
+    text-align: center;
 }
